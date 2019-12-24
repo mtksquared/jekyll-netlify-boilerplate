@@ -5,11 +5,7 @@ permalink: /contact
 section: contact
 intro_paragraph: |-
 
-  The contact form on this page uses
-  [Netlify Forms](https://www.netlify.com/docs/form-handling/) to process
-  submissions, and saves them in your Netlify account where you can optionally
-  set up notifications. Each submission is passed through a spam filter and if
-  flagged, will display a CAPTCHA challenge to the user.
+It's easy to get in contact with us. Call us anytime<br><br><a href="tel:520-415-6379">520-415-6379</a><br><br> If you'd rather contact us by email, fill out the form below and we will get back to you soon. Thank you!
 ---
 
 **Send us a message**
