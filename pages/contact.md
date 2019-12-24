@@ -10,7 +10,7 @@ intro_paragraph: >-
   520-415-6379
 
 
-  If you prefer to e-mail us, fill out the form below and we will get back to
+  If you prefer to e-mail us; fill out the form below and we will get back to
   you soon.
 ---
 
