@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Welcome
+title: Welcome TO MTK Squared
 permalink: /
 section: home
 intro_paragraph: >
